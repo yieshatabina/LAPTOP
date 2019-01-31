@@ -1,0 +1,97 @@
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl mpm_f21__Apple_MacBook_Pro_15:aluminium
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mpm_f21_text_mask.jpg
+map_Ka mpm_f21_text_mask.jpg
+Ni 1.50
+Ks 0.90 0.90 0.90
+Ns 40.00
+newmtl mpm_f21__Apple_MacBook_Pro_15:apple
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mpm_f21_apple_logo_diff.jpg
+map_Ka mpm_f21_apple_logo_diff.jpg
+Ni 1.50
+Ks 0.35 0.35 0.35
+Ns 56.00
+newmtl mpm_f21__Apple_MacBook_Pro_15:display
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mpm_f21_home_screen_diff.jpg
+map_Ka mpm_f21_home_screen_diff.jpg
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 70.00
+newmtl mpm_f21__Apple_MacBook_Pro_15:display_frame
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.48 0.48 0.48
+Ns 70.00
+newmtl mpm_f21__Apple_MacBook_Pro_15:glass
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.20 0.20 0.20
+Ni 1.50
+Ks 0.90 0.90 0.90
+Ns 70.00
+newmtl mpm_f21__Apple_MacBook_Pro_15:keyboard
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mpm_f21_keyboard_diff.jpg
+map_Ka mpm_f21_keyboard_diff.jpg
+Ni 1.50
+Ks 0.21 0.21 0.21
+Ns 40.00
+newmtl mpm_f21__Apple_MacBook_Pro_15:metal
+illum 4
+Kd 0.39 0.39 0.39
+Ka 0.39 0.39 0.39
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.90 0.90 0.90
+Ns 30.00
+newmtl mpm_f21__Apple_MacBook_Pro_15:rubber
+illum 4
+Kd 0.02 0.02 0.02
+Ka 0.02 0.02 0.02
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.53 0.53 0.53
+Ns 40.00
+newmtl mpm_f21__Apple_MacBook_Pro_15:screws
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mpm_f21_screw_diff.jpg
+map_Ka mpm_f21_screw_diff.jpg
+bump mpm_f21_screw_diff.jpg -bm 0
+Ni 1.50
+Ks 0.45 0.45 0.45
+Ns 40.00
+newmtl mpm_f21__Apple_MacBook_Pro_15:touchpad
+illum 4
+Kd 0.75 0.78 0.79
+Ka 0.75 0.78 0.79
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.72 0.72 0.72
+Ns 30.00
